@@ -1,0 +1,22 @@
+# Ignore generated mock or user-specific datasets
+*.xlsx
+*.xls
+*.csv
+*.docx
+
+# Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
