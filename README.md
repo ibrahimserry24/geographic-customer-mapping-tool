@@ -1,3 +1,7 @@
+
+
+Uploading 20260517172833.mp4…
+
 # 🌍 Geographic Customer Mapping Tool (Geospatial Sales Intelligence CRM)
 
 A premium, interactive geospatial data visualization tool designed for sales, operations, and CRM teams. It dynamically processes customer addresses and direct Google Maps coordinates to plot color-coded, interactive markers on a highly polished map interface, enabling data-driven regional planning, customer density analysis, and routing optimization.
